@@ -1,7 +1,7 @@
 pyrogram==2.0.106
 tgcrypto==1.2.5
 requests	
-pyromod	pyromod==3.1.5
+pyromod==3.1.5
 yt-dlp
 ffmpeg
 ffprobe
