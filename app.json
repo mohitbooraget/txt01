@@ -15,28 +15,28 @@
   "success_url": "https://t.me/txt_downloader_robot",
   "website": "https://github.com/AdrienAppCap/text-downloader",
   "logo": "https://telegra.ph/file/a438489c44d17d108f7b5.jpg",
-  "repository": "https://github.com/AdrienAppCap/text-downloader",
+  "repository": "https://github.com/siddbot1/txt01",
   "stack": "container",
   "env": {
     "BOT_TOKEN": {
       "description": "Make a bot from https://t.me/BotFather and enter the token here",
-      "value": ""
+      "value": "6778884147:AAFpHBCKeu0N62AJH7IM4OSXI86gzRMzOFM"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org/apps",
-      "value": ""
+      "value": "25218337"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org/apps",
-      "value": ""
+      "value": "0984be1572879b9dabb10882fb46a539"
     },
     "GROUPS": {
       "description": "Telegram User group ids",
-      "value": ""
+      "value": "-1002061976269"
     },
     "AUTH_USERS": {
       "description": "id's of the telegram users, who you want to allow for multitasking - downloading multiple links at once! In heroku separate the ids by space. (don't put commas. Only separate each of the id's with space",
-      "value": "",
+      "value": "5732659152",
       "required": false
     }
   },
