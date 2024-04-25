@@ -31,7 +31,6 @@ py-tgcalls==1.0.1
 httpx[http2]
 img2pdf
 tglogging
-pycurl
 bs4
 idna==3.4
 mutagen==1.46.0
